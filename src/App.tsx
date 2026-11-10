@@ -1,4 +1,4 @@
-import { useState,useEffect} from 'react'
+import { useState} from 'react'
 import moon from "./assets/images/icon-moon.svg"
 import sun from "./assets/images/icon-sun.svg"
 import logo from "./assets/images/logo.svg"
